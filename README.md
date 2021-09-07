@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shravani-radhakrishnan
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning React
+- 📫 How to reach me manduvasravani@gmail.com
