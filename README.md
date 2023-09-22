@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shravani-radhakrishnan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 📫 How to reach me manduvasravani@gmail.com
+- 🌱 I’m a senior software Engineer
+- 👩🏻‍💻 Coding Languages I'm good at are HTML, CSS, Javascript, Bootstrap, Angular, React, MongoDB, MySql, Node JS 
+- 📫 How to reach me msravaniusa@gmail.com
