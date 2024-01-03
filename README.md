@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shravani-radhakrishnan
 - 👀 I’m interested in coding
 - 🌱 I’m a senior software Engineer
-- 👩🏻‍💻 Coding Languages I'm good at are HTML, CSS, Javascript, Bootstrap, Angular, React, MongoDB, MySql, Node JS 
+- 👩🏻‍💻 Coding Languages I'm good at are HTML, CSS, Javascript, Bootstrap, Angular, React, MongoDB, MySql, Node JS and Java
 - 📫 How to reach me msravaniusa@gmail.com
+- 📸 Love capturing the world through my lens @lovelenscapture
